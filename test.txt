@@ -2,4 +2,4 @@ test
 Primer cambio en el documento creado usando git
 Segundo cambio en el documento usando git.
 
-Daniel gay
+Daniel es un buen amigo
